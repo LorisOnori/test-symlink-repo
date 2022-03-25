@@ -1,1 +1,1 @@
-../folder1/link_to_external.txt
+../folder1/link_to_external.java

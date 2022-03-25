@@ -1,1 +1,1 @@
-../folder1/link_to_admin.txt
+../folder1/link_to_admin.py
