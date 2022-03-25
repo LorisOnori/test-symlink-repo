@@ -1,0 +1,1 @@
+../../credential-digger/LICENSE
